@@ -26,7 +26,7 @@
 
 ### 3. 프로세스
 #### 3-1. 흐름도
-![Process Image](./process.png)
+![Process Image](./process.PNG)
 #### 3-2. Load Data
 ##### - Select Period & Item
 1. Period: 2020-05-01 ~ 2020-05-14
@@ -55,14 +55,14 @@
 - trim_mean20
 
 > Index / Statistics   
-![Index_Table](./index_table.png)
+![Index_Table](./index_table.PNG)
 
 
 ##### - Labeling
 - 저장된 UP/DOWN 신호를 이용하여 라벨링
 
 > Label
-![Label_Table](./label_table.png)
+![Label_Table](./label_table.PNG)
 
 #### 3-3. Pre-Process
 ##### - Pre-Processing
